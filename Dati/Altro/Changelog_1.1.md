@@ -51,8 +51,8 @@
 - [ ] Sondaggio relativo alle modifiche attuate sul server.
 - [ ] Aggiunto una semplice guida per la Ricerca di apelli sulla repository di informazioni IBM su GitHub.
 - [ ] Implementare un Bot che possa aiutare la comunity.
-
-
+- [ ] Lista indirizzi email professori dei vari corsi
+  
 <!--# Progetti
 ## Guide fatte:
 - [ ] Aggiunto Calendario esami per questo anno accademico con le date degli apelli.
