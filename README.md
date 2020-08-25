@@ -10,7 +10,7 @@ Guide, date, testi, scadenze, tutto raccolto in un unica repository di informazi
 - *[Guida uso Discord](http://tiny.cc/guidaDiscord)*
 ## Link utili
 
-- *[Bozze orari 2020/2021](Dati/Calendari/README.md)* - ***new!***
+- *[**Bozze orari 2020/2021**](Dati/Calendari/README.md)* - ***new!***
 - *🚧[Lista Link e contatti importanti Università di Padova](Dati/Guide/Link%20e%20Contatti%20UniPD.md)🚧*
 - *🚧[Lista Link Utili](/Dati/Guide/Link%20utili.md)🚧*
 
